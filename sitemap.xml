@@ -19,6 +19,9 @@
     <loc>https://carpentries-incubator.github.io/genai-implications-novice/images.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/implications_learning.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/genai-implications-novice/index.html</loc>
   </url>
   <url>
@@ -40,6 +43,9 @@
     <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor/images.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor/implications_learning.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor/index.html</loc>
   </url>
   <url>
@@ -58,6 +64,15 @@
     <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor/respect_accountability.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor/rigour.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor/transparency.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/genai-implications-novice/instructor-notes.html</loc>
   </url>
   <url>
@@ -71,5 +86,14 @@
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/genai-implications-novice/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/respect_accountability.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/rigour.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/genai-implications-novice/transparency.html</loc>
   </url>
 </urlset>
