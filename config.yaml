@@ -67,6 +67,10 @@ contact: 'tobyhodges@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- rigour.md
+- implications_learning.md
+- respect_accountability.md
+- transparency.md
 
 # Information for Learners
 learners: 
