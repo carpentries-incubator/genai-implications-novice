@@ -1,22 +1,21 @@
 ---
-title: "Introduction"
+title: "Respect and Accountability"
 teaching: 10 # teaching time in minutes
 exercises: 2 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- Why might a paper be retracted?
-- How do paper retractions relate to integrity?
-- What do we mean by research integrity?
+- How do you write a lesson using Markdown and `{sandpaper}`?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Describe factors contributing to paper retractions
-- Describe components of research integrity
-- Explain how lack of integrity could lead to a paper retraction
+- Describe key environmental concerns relating to GenAI and machine learning
+- State key issues relating to data workers and workers rights
+- Awareness of embedded values in the tools
+- Describe current legal and ethical debates relating to data acquisition for training 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -107,9 +106,10 @@ Cool, right?
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Papers may be retracted by an author or the journal's editorial team.
-- Integrity concerns may be a factor in retraction.
-- There are multiple dimensions to integrity.
+- Use `.md` files for episodes when you want static content
+- Use `.Rmd` files for episodes when you need to generate output
+- Run `sandpaper::check_lesson()` to identify any issues with your lesson
+- Run `sandpaper::build_lesson()` to preview your lesson locally
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
