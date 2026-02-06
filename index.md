@@ -2,10 +2,10 @@
 site: sandpaper::sandpaper_site
 ---
 
-* Identify potential ethical and legal issues relating to training data acquisition and rule setting
-* Identify implications relating to IP and copyright of LLM generated software
+* Identify potential ethical and legal issues relating to GenAI platforms development and use
+* Identify implications relating to IP and copyright relating to GenAI platforms development and use
 * Articulate how use of GenAI may interact with research integrity
-* Make an informed decision about when, how, where, if(?) to use GenAI for coding
+* State a number of considerations required to make an informed decision about when, where, or if to use GenAI for coding
 
 ::: prereq 
 
