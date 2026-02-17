@@ -48,5 +48,11 @@ Take it in turns to share your thoughts with your neighbours.
 - Run `sandpaper::build_lesson()` to preview your lesson locally
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::For Further Reading
+### For Further Reading
+- Ridley, M. (2025). Explainable AI: An Agenda for Explainability Activism. College & Research Libraries News, 86(4), 169. doi:https://doi.org/10.5860/crln.86.4.169
+- Ridley, M. (2022). Explainable Artificial Intelligence (XAI): Adoption and Advocacy. Information Technology and Libraries, 41(2). https://doi.org/10.6017/ital.v41i2.14683
+- 
+:::::::::
 
 [r-markdown]: https://rmarkdown.rstudio.com/
