@@ -11,9 +11,9 @@ exercises: 2 # exercise time in minutes
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
-
-- Explain how to use markdown with The Carpentries Workbench
-- Demonstrate how to include pieces of code, figures, and nested challenge blocks
+- understand the difference between shallow and deep learning
+- state different programming skills and how they relate (part of next lesseon?)
+- understand how genAI can enhance/hinder skill acquisition
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
