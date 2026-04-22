@@ -1,9 +1,18 @@
-# The Carpentries Workbench Template Markdown Lesson
+# Exploring Implications of Generative AI (for programming novices) 
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
 
-## Note about lesson life cycle stage
-Although the `config.yaml` states the life cycle stage as pre-alpha, **the template is stable and ready to use**. The life cycle stage is preset to `"pre-alpha"` as this setting is appropriate for new lessons initialised using the template.
+## Lesson status
+The life cycle stage is preset to `"pre-alpha"` as this lesson is still in very early stages of development.
+
+You can view the initial planning document online: [Lesson design notes](https://codimd.carpentries.org/genai-implications-lesson-design-notes#Episodes)
+
+Content from this document has been added to the episode templates, and Discussions are being used to inform ongoing development.
+
+If you have an idea for the lesson please either suggest in discussions or add as a new issue.
+
+
+
 
 ## Create a new repository from this template
 
