@@ -13,10 +13,25 @@ exercises: 2 # exercise time in minutes
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - describe how rigour could help avoid paper retraction
-- Awareness of reproducibility concerns re: genAI ourputs
+- Awareness of reproducibility concerns re: genAI outputs
 - awareness of limitations of explainable AI
 - awareness of business models and how these impact behaviours
 - describe how genAI use can impact disciplinary norms
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## What is rigour
+
+Pre-learning: what are the things that influence rigour, what does it mean in the research process. this could include pre-registration.
+
+::::::::::::::::::::::::::::::::::::: discussion
+
+### Describe how rigour could help avoid paper retraction
+
+Read:
+
+- what were the issues,
+- what were the rigour components that contributed to retraction
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -39,6 +54,29 @@ Spend 2 minutes thinking about your response.
 Take it in turns to share your thoughts with your neighbours.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+## The need for explainability
+
+Pre-learning: introduce concept of attention economy, and how this relates to follow-up questions. Relate to pre-registration concept
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+### Challenge: Task review
+
+Read the aim of the task:
+
+Read the chat transcript:
+
+Answer the questions:
+
+- the prepared plan was adhered to
+- if the original objective was met
+
+:::::::::::::::::::::::: solution 
+
+
+
+:::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
