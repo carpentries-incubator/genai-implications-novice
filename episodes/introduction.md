@@ -23,6 +23,7 @@ exercises: 2 # exercise time in minutes
 ## Risks of retraction
 Episode content goes here...
 
+Pre-activity: The MMR vaccine retratction -> why was it retracted, and the ongoing impact of that research. What were the key issues, and how it relates to journal guidance.
 
 :::::::::::::::::::::::::::::::::::::: challenge
 
@@ -40,6 +41,33 @@ Which of the following could result in a paper being retracted?
 All of these problems could/should require the paper to be retracted.
 
 :::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Research Integrity
+Episode content goes here..
+
+Pre activity: Have learners explore the UKRIO guidance or the EU guidelines
+
+:::::::::::::::::::::::::::::::::::::: discussion
+
+### Tell Your neighbour: What does research integrity mean to you?
+
+1. Spend 2 minutes thinking about what research integrity means to you
+2. Share your understanding of research integrity with your neighbour
+3. Was anything different, or unexpected in their understanding?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Integrity and retractions
+
+Preactivity: revisit MMR example, what were the integrity issues. Do they overlap with retraction scenarios
+
+:::::::::::::::::::::::::::::::::::::: discussion
+
+### Minute Paper: Integrity and retractions
+
+Write for 1 minute on the topic of how a lack of integrity could lead to a paper retraction. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
