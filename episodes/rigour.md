@@ -49,6 +49,8 @@ Read the [definition of open source AI](https://opensource.org/ai/open-source-ai
 
 How much does it reduce blackbox and aid explainability?
 
+Differences between open source and free-to-use (when host harvests your use and data).
+
 Spend 2 minutes thinking about your response.
 
 Take it in turns to share your thoughts with your neighbours.
