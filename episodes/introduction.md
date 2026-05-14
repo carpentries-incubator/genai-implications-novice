@@ -42,6 +42,17 @@ All of these problems could/should require the paper to be retracted.
 
 :::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::: challenge
+
+### Is it FAIR/Open Science?
+Can future scientists reproduce or replicate the analysis conducted by the (GenAI term)?
+
+:::::::::::::::::::::::: solution
+
+### Solution
+The black box technique of genAI makes it nearly impossible to reverse engineer how a conclusion was reached, which variables received which weights, or how missing values were imputed.  Perhaps if it is a completely in-house genAI model and several computational scientists are available to deconstruct the code, but this is generally cost-prohibitive. It is one of the reasons why copyright is not available for genAI'd outputs unless there is significant human revision or curation after.  
+
+
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Research Integrity
