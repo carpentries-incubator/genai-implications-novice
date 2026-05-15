@@ -28,9 +28,23 @@ a valued contributor to the team. There has been a lot of buzz around the team a
 Throughout this lesson we will discuss a range of issues that will help Alma, and you, critically evaluate if an AI tool is appropriate to use in your projects.
 
 ## Risks of retraction
-Episode content goes here...
+In December 2023 Nature reported that more than 10,000 publications had been retracted during that calendar year alone. Publications can be retracted for a number of reasons. Some are retracted by the authors, others by journal editors. Some publications remain in the public conciousness long after they have been retracted. 
 
-Pre-activity: The MMR vaccine retratction -> why was it retracted, and the ongoing impact of that research. What were the key issues, and how it relates to journal guidance.
+An example of this is Wakefield's 1998 article linking autism to MMR vaccines. This article was retracted by the Lancet in February 2010 after it was found that Dr Wakefield and colleagues were found to have acted unethically and that there were concerns about incorrect findings. It was also later discovered that the study was partially funded by lawyers acting for parents who were involved in lawsuits against vaccine manufacturers. The public health impact of this publication has been a reduction in vaccinations, leading to an increase in measles outbreaks, which can be life threatening. 
+
+For details see: [Lancet retracts 12-year-old article linking autism to MMR vaccines](https://pmc.ncbi.nlm.nih.gov/articles/PMC2831678/)
+
+In addition, any articles that have been used in the training data sets for large language models will remain permanently embedded in the model. This can result in incorrect or misleading information being presented to users as facts via model output.
+
+:::::::::::::::::::::::::::::::::::::: callout
+
+### Retraction Watch
+
+[Retraction Watch](https://retractionwatch.com/) is a blog that reports on the retraction of publications from journals and why these have occurred. In addition to the blog posts, there is also the database that stores information about which publications have been retracted, from where and when.
+
+You may want to explore the blog and website, the leaderboards may be of particular interest.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::: challenge
 
