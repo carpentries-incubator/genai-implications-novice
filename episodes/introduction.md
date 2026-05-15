@@ -20,6 +20,13 @@ exercises: 2 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Introducing Alma
+
+Alma has recently joined a new research group as a junior member of the team. They are keen to make a good impression and be
+a valued contributor to the team. There has been a lot of buzz around the team and in general about AI, and how they may be helpful in the team's current project. However, Alma isn't so sure. Alma's previous research team lost funding after it was found that the lead investigator had been falsifying data, and a number of papers were retracted. They are also aware of papers in high profile journals being found to have "hallucinated" citations, and concerns around wellbeing. Alma needs some help to critically evaluate if this will be an appropriate tool to use in their research process.
+
+Throughout this lesson we will discuss a range of issues that will help Alma, and you, critically evaluate if an AI tool is appropriate to use in your projects.
+
 ## Risks of retraction
 Episode content goes here...
 
