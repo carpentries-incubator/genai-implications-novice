@@ -95,7 +95,9 @@ The UK Research Integrity Office defines research integrity as all of the factor
 
 ![Dimensions of Research Integrity](images/WhatisRI.png)
 
-#### Dimensions {.tabset}
+:::::::::::::::::::::::::::::::::::::: spoiler
+
+#### Dimensions 
 ##### Honesty
 In all aspects of research, including:
 
@@ -140,6 +142,7 @@ In line with disciplinary norms, including in:
 - Drawing conclusions
 - Disseminating
 
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 These five principles sit alongside the four principles defined in [The Singapore Statement](https://wcrif.org/guidance/singapore-statement) agreed at the 2010 World Conference on Research Integrity (WCRI): 
 
