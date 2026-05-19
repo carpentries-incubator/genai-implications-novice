@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-teaching: 10 # teaching time in minutes
-exercises: 2 # exercise time in minutes
+teaching: 30 # teaching time in minutes
+exercises: 3 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -93,7 +93,52 @@ The UK Research Integrity Office defines research integrity as all of the factor
 
 ### Dimensions of research integrity
 
+![Dimensions of Research Integrity](images/WhatisRI.png)
 
+#### Dimensions {.tabset}
+##### Honesty
+In all aspects of research, including:
+
+- Planning
+- Methods
+- Data collection
+- Credit
+- Reporting
+- Interpretation
+
+##### Transparency
+Promoting trust and confidence, including by:
+
+- Reporting full methods
+- Publishing all results
+- Sharing data, code and materials
+- Declaring conflicts of interest
+
+##### Accountability
+Of everyone involved in research, including:
+
+- Researchers
+- Institutions
+- Funding bodies
+- Publishers
+
+##### Respect
+For everyone & everything involved in research, including:
+
+- Colleagues
+- Other researchers
+- Participants
+- Animals
+- The environment
+
+##### Rigour
+In line with disciplinary norms, including in:
+
+- Appropriate methods
+- Following protocols
+- Interpreting data
+- Drawing conclusions
+- Disseminating
 
 
 These five principles sit alongside the four principles defined in [The Singapore Statement](https://wcrif.org/guidance/singapore-statement) agreed at the 2010 World Conference on Research Integrity (WCRI): 
