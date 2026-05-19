@@ -66,9 +66,18 @@ All of these problems could/should require the paper to be retracted.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Research Integrity
-Episode content goes here..
 
-Pre activity: Have learners explore the UKRIO guidance or the EU guidelines
+Let's consider these two definitions from the Oxford English Dictionary:
+
+Research: Systematic investigation or inquiry aimed at contributing to knowledge of a theory, topic, etc., by careful consideration, observation, or study of a subject.
+
+(https://doi.org/10.1093/OED/1194777451)
+
+Integrity: Soundness of moral principle; the character of uncorrupted virtue, esp. in relation to truth and fair dealing; uprightness, honesty, sincerity.
+
+(https://doi.org/10.1093/OED/1327125083)
+
+What do these mean with regards to how we undertake research?
 
 :::::::::::::::::::::::::::::::::::::: discussion
 
@@ -79,6 +88,22 @@ Pre activity: Have learners explore the UKRIO guidance or the EU guidelines
 3. Was anything different, or unexpected in their understanding?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+The UK Research Integrity Office defines research integrity as all of the factors that underpin good research practice and promote trust and confidence in the research process. These are across the entire research process.
+
+### Dimensions of research integrity
+
+
+
+
+These five principles sit alongside the four principles defined in [The Singapore Statement](https://wcrif.org/guidance/singapore-statement) agreed at the 2010 World Conference on Research Integrity (WCRI): 
+
+- Honesty in all aspects of research
+- Accountability in the conduct of research
+- Professional courtesy and fairness in working with others
+- Good stewardship of research on behalf of others
+  
+We will explore each of these dimensions with regards to the use of Generative AI.
 
 ## Integrity and retractions
 
