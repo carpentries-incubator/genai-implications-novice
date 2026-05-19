@@ -155,7 +155,11 @@ We will explore each of these dimensions with regards to the use of Generative A
 
 ## Integrity and retractions
 
-Preactivity: revisit MMR example, what were the integrity issues. Do they overlap with retraction scenarios
+If we know reconsider Wakefield (1998), there were a number of concerns regarding research integerity.
+
+What were the main concerns?
+
+Do these overlap with retraction scenarios?
 
 :::::::::::::::::::::::::::::::::::::: discussion
 
