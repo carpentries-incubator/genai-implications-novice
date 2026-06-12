@@ -65,16 +65,13 @@ Take it in turns to share your thoughts with your neighbours.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: callout
-
 ### Explainable AI
 
-Definition of explainable AI: ....
+Explainable AI refers to: the set of processes and methods that allows human users to comprehend and trust the results and output created by machine learning algorithms
 
-Defintion of open source AI ....
+Is Open Source AI explainable AI?
 
-::::::::::::::::::::::::::::::::::::::::::::::::
-
+For more information about explainable AI see: [What is Explainable AI? - Software Engineering Institute, Carnegie Mellon University](https://www.sei.cmu.edu/blog/what-is-explainable-ai/)
 
 ## Disciplinary norms and the attention economy
 
