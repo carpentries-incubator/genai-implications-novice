@@ -73,9 +73,19 @@ Is Open Source AI explainable AI?
 
 For more information about explainable AI see: [What is Explainable AI? - Software Engineering Institute, Carnegie Mellon University](https://www.sei.cmu.edu/blog/what-is-explainable-ai/)
 
-## Disciplinary norms and the attention economy
+## Rigour, disciplinary norms and the attention economy
 
-Pre-learning: introduce concept of attention economy, and how this relates to follow-up questions. Relate to pre-registration concept
+The UK Research Integrity Office state that Rigour is demonstrated by behaviour that is in line with prevailing disciplinary norms and standards, including the use of appropriate methods.
+
+::::::::::::::::::::::::::::::::::::: quote
+
+"Attention is a resource—a person has only so much of it."
+
+[Matthew Crawford, 2015](https://en.wikipedia.org/wiki/Attention_economy#cite_note-WBH11-3)
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+Many Generative AI tools are designed to keep the user engaged with the tool. You may have noticed one or more follow-up questions to your initial request.
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
@@ -87,8 +97,8 @@ Read the chat transcript:
 
 Answer the questions:
 
-- the prepared plan was adhered to
-- if the original objective was met
+- Was the prepared plan adhered to?
+- Were the original objectives met?
 
 :::::::::::::::::::::::: solution 
 
@@ -97,6 +107,8 @@ Answer the questions:
 :::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Publishing your research outputs
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
