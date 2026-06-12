@@ -18,23 +18,18 @@ exercises: 2 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## What is transparency?
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.html) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+The UK Research Integrity Office define Transparency as a means of promoting trust and confidence.
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+This is demonstrated through:
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+- reporting full methods,
+- publishing all results,
+- sharing data, code and materials,
+- and declaring conflicts of interest.
+
+This includes acknowledging the use of tools such as emerging technologies, such as Generative AI.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
