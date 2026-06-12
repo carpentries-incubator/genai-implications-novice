@@ -1,5 +1,5 @@
 ---
-title: "Rigour"
+title: "Rigour and Transparency"
 teaching: 10 # teaching time in minutes
 exercises: 2 # exercise time in minutes
 ---
@@ -12,40 +12,50 @@ exercises: 2 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- describe how rigour could help avoid paper retraction
 - Awareness of reproducibility concerns re: genAI outputs
 - awareness of limitations of explainable AI
 - awareness of business models and how these impact behaviours
 - describe how genAI use can impact disciplinary norms
+- describe reputational impact resulting from lack of transparency around use
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## What is rigour
+## What is transparency?
 
-Pre-learning: what are the things that influence rigour, what does it mean in the research process. this could include pre-registration.
+The UK Research Integrity Office define Transparency as a means of promoting trust and confidence.
 
-::::::::::::::::::::::::::::::::::::: discussion
+This is demonstrated through:
 
-### Describe how rigour could help avoid paper retraction
+- reporting full methods,
+- publishing all results,
+- sharing data, code and materials,
+- and declaring conflicts of interest.
 
-Read:
+This includes acknowledging the use of tools such as emerging technologies, e.g. Generative AI.
 
-- what were the issues,
-- what were the rigour components that contributed to retraction
+::::::::::::::::::::::::::::::::::::: quote
+
+"If you don’t pay for it you are the product"
+
+Margaret McCartney, 2018
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Explainable AI
+## Open Acccess versus Open Source
 
-Definition of explainable AI: ....
+There is a wide range of Generative AI and more specifically, Large Language Models that are "free" to use without registering for an account. These often offer very little control over what data is collected during use and re-used for future model training.
 
-Defintion of open source AI ....
+Although subscriptions provide a level of control over what data is collected about your use, their is limited information available about how the tool was created. They are often closed source.
+
+How do you know you have used an appropriate method, if you do not know how the tool is deciding what to present to you?
 
 ::::::::::::::::::::::::::::::::::::: discussion
 
 ### Think, Pair, Share
 
 Read the [definition of open source AI](https://opensource.org/ai/open-source-ai-definition). 
+
+How does the Open Source AI definition compare to the [Open Source definition](https://opensource.org/osd)?
 
 How much does it reduce blackbox and aid explainability?
 
@@ -55,7 +65,18 @@ Take it in turns to share your thoughts with your neighbours.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## The need for explainability
+::::::::::::::::::::::::::::::::::::: callout
+
+### Explainable AI
+
+Definition of explainable AI: ....
+
+Defintion of open source AI ....
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## Disciplinary norms and the attention economy
 
 Pre-learning: introduce concept of attention economy, and how this relates to follow-up questions. Relate to pre-registration concept
 
