@@ -135,7 +135,7 @@ Do you agree with the different guidance for authors and reviewers?
 
 ::::::::::::::::::::::::::::::::::::: discussion
 
-### Think, Pair, Share
+### Check the requirements
 
 Visit the website of a prominent journal in your field.
 
