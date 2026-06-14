@@ -1,22 +1,23 @@
 ---
 title: "Rigour and Transparency"
-teaching: 10 # teaching time in minutes
-exercises: 2 # exercise time in minutes
+teaching: 20 # teaching time in minutes
+exercises: 20 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- What is open source AI?
+- What are the limitation on explainability?
+- What do I need to declare about my use of Gen AI when publishing my work?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Awareness of reproducibility concerns re: genAI outputs
-- awareness of limitations of explainable AI
-- awareness of business models and how these impact behaviours
-- describe how genAI use can impact disciplinary norms
-- describe reputational impact resulting from lack of transparency around use
+- Awareness of limitations of explainable AI
+- Awareness of business models and how these impact behaviours
+- Awareness of differing journal requirements re: declaring use of Generative AI
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -79,7 +80,7 @@ The UK Research Integrity Office state that Rigour is demonstrated by behaviour 
 
 ::::::::::::::::::::::::::::::::::::: quote
 
-"Attention is a resource—a person has only so much of it."
+"Attention is a resource — a person has only so much of it."
 
 [Matthew Crawford, 2015](https://en.wikipedia.org/wiki/Attention_economy#cite_note-WBH11-3)
 
@@ -109,6 +110,48 @@ Answer the questions:
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Publishing your research outputs
+
+Research can take many forms. Traditional papers, software papers, software packages, contributions to open source projects or blog posts.
+
+In May 2026 nature reported on an increase of fake references in Bio-medical science papers. A study audited 2.5 million papers available via the PubMed Central (PMC) Open Access database published between January 2023 and February 2026. 300,000 were found to create fake references.
+
+See: [Surge in fake citations uncovered by audit of 2.5 million biomedical-science papers](https://www.nature.com/articles/d41586-026-00748-w#ref-CR1)
+
+::::::::::::::::::::::::::::::::::::: callout
+
+Do falsified references constitute a breach of research integrity?
+
+Do you think a paper should be retracted for including falsified references?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+When submitting to journals or contributing to open source software projects, there will be guidance on how to contribute and increasingly, requirements to declare Generative AI use.
+
+For example, [Cambridge University Press](https://www.cambridge.org/core/services/publishing-ethics/authorship-and-contributorship-journals) require Author's to declare and clearly explain their use of AI. Authors are also accountable for any use of AI.
+
+The Journal for Open Source Software (JOSS), provides [guidance on AI use for both Authors and Reviewers](https://joss.readthedocs.io/en/latest/submitting.html#ai-usage-policy).
+
+Do you agree with the different guidance for authors and reviewers?
+
+::::::::::::::::::::::::::::::::::::: discussion
+
+### Think, Pair, Share
+
+Visit the website of a prominent journal in your field.
+
+Does the author guidelines have any information about about AI generated content?
+
+An example is the [BERA Journal Author Guidelines](https://bera-journals.onlinelibrary.wiley.com/hub/journal/14678535/forauthors.html?gad_campaignid=22804079273&gad_source=1&gclid=EAIaIQobChMIpff3vbqHlQMVCJJQBh0y1jdMEAAYASABEgJfwvD_BwE&utm_campaign=R3MR425&utm_content=SocBehavSci&utm_medium=cpc&utm_source=google).
+
+Is there anything that surprises you?
+
+What are the implications for your work?
+
+Spend 2 minutes thinking about your response.
+
+Take it in turns to share your thoughts with your neighbours.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
