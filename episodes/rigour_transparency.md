@@ -133,6 +133,8 @@ The Journal for Open Source Software (JOSS), provides [guidance on AI use for bo
 
 Do you agree with the different guidance for authors and reviewers?
 
+Interestingly, the [Comprehensive R Archive Network (CRAN) Repository Policy](https://cran.r-project.org/web/packages/policies.html) does not mention AI. However, "The ownership of copyright and intellectual property rights of all components of the package must be clear and unambiguous", and authors are responsbible for ensuring there is no infringement or misrepresentation of copyright or licences.
+
 ::::::::::::::::::::::::::::::::::::: discussion
 
 ### Check the requirements
