@@ -92,14 +92,14 @@ Many Generative AI tools are designed to keep the user engaged with the tool. Yo
 
 ### Challenge: Task review
 
-Read the aim of the task:
+The question I would like to answer: Is there a statistically significant relationship between population density, GDP per capita and life expectancy?
 
 Read the chat transcript:
 
 Answer the questions:
 
-- Was the prepared plan adhered to?
-- Were the original objectives met?
+- Was thw question answered?
+- Where may the question answer of deviated?
 
 :::::::::::::::::::::::: solution 
 
