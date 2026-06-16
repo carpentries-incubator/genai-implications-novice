@@ -94,16 +94,23 @@ Many Generative AI tools are designed to keep the user engaged with the tool. Yo
 
 The question I would like to answer: Is there a statistically significant relationship between population density, GDP per capita and life expectancy?
 
-Read the chat transcript:
+Watch the video of the interaction with an LLM: [https://youtu.be/cecGWV6BpVo](https://youtu.be/cecGWV6BpVo)
+
+This video does not have any audio
 
 Answer the questions:
 
 - Was thw question answered?
 - Where may the question answer of deviated?
+- Was there a risk of creating a non-reproducible result?
 
 :::::::::::::::::::::::: solution 
 
+Generative AI tools may ask follow-up questions which could potentially lead you away from your data analysis aims.
 
+Always ask a model how it has come to a conclusion and share the code it has used to generate the reportes repsonse. 
+
+This will enable you to verify the model outputs.
 
 :::::::::::::::::::::::::::::::::
 
@@ -157,11 +164,10 @@ Take it in turns to share your thoughts with your neighbours.
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- It is important to be transparent about where and how Generative AI has been used in your work flow
+- There are differences between the Open Source and Open AI definitions
+- Some Generative AI tools are designed to encourage engagement with the tool
+- Check the rules around Generative AI use for your choden dissemination channel
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[r-markdown]: https://rmarkdown.rstudio.com/
