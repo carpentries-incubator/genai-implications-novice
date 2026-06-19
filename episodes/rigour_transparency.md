@@ -98,6 +98,8 @@ Watch the video of the interaction with an LLM: [https://youtu.be/cecGWV6BpVo](h
 
 This video does not have any audio
 
+Alternatively, review the chat history: [ChatGPT transcript](chatgpt_transcript.md)
+
 Answer the questions:
 
 - Was thw question answered?
