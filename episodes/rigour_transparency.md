@@ -1,7 +1,7 @@
 ---
 title: "Rigour and Transparency"
 teaching: 20 # teaching time in minutes
-exercises: 20 # exercise time in minutes
+exercises: 30 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -14,7 +14,7 @@ exercises: 20 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Awareness of reproducibility concerns re: genAI outputs
+- Awareness of reproducibility concerns re: GenA I outputs
 - Awareness of limitations of explainable AI
 - Awareness of business models and how these impact behaviours
 - Awareness of differing journal requirements re: declaring use of Generative AI
@@ -56,9 +56,9 @@ How do you know you have used an appropriate method, if you do not know how the 
 
 Read the [definition of open source AI](https://opensource.org/ai/open-source-ai-definition). 
 
-How does the Open Source AI definition compare to the [Open Source definition](https://opensource.org/osd)?
+- How does the Open Source AI definition compare to the [Open Source definition](https://opensource.org/osd)?
 
-How much does it reduce blackbox and aid explainability?
+- How much does it reduce blackbox and aid explainability?
 
 Spend 2 minutes thinking about your response.
 
