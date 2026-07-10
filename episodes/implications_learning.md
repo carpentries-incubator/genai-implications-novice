@@ -23,7 +23,7 @@ exercises: 10 # exercise time in minutes
 
 ## Introduction
 
-In this episode we will take a closer look at different approaches to learning and how they relate to using GenAI to research software development.
+In this episode we will take a closer look at different approaches to learning and how they relate to using GenAI in research software development.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
