@@ -108,7 +108,7 @@ Here are some strategies that could help build comprehension.
 
 Your overall goal should always be to focus on your learning. That means to adopt practices that help you keep learning to code and to be able to scrutinize the answers given back by GenAI. 
 
-GenAI output often sounds very confident, which can make us inclined to accept it as correct and factual without critically evaluating it. However, is important to treat AI outputs as suggestions rather than solutions. Also, remember that you as the researcher need to take responsibility for any AI-generated code you use. We will come back to this in the next episode.
+GenAI output often sounds very confident, which can make us inclined to accept it as correct and factual without critically evaluating it. However, it is important to treat AI outputs as suggestions rather than solutions. Also, remember that you as the researcher need to take responsibility for any AI-generated code you use. We will come back to this in the next episode.
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
