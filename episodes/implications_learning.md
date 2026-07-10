@@ -71,7 +71,7 @@ A deep learning approach requires to be aware of *how* you are thinking and lear
 
 ### Turn to your neighbour and share your thoughts: 
 
-1. When you look back at a recent interaction with ChatGPT, what parts of the *thinking* did you do, and what parts did you subconsciously let the AI do? 
+1. When you look back at a recent interaction with an LLM, what parts of the *thinking* did you do, and what parts did you subconsciously let the AI do? 
 2. How can you develop your ability to recognize your choices in the moment?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
