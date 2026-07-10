@@ -115,7 +115,13 @@ Here are some strategies that could help build comprehension.
 
 :::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::: callout
 
+At the Association for Learning Development Conference 2025, a workshop explored how activities could be designed to enable learners to engage critically with AI. 
+
+Read the workshop write-up:[What is lazy metacognition and what can we do about it? ](https://doi.org/10.47408/jldhe.vi37.1713 )
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 Your overall goal should always be to focus on your learning. That means to adopt practices that help you keep learning to code and to be able to scrutinize the answers given back by GenAI. 
 
 GenAI output often sounds very confident, which can make us inclined to accept it as correct and factual without critically evaluating it. However, it is important to treat AI outputs as suggestions rather than solutions. Also, remember that you as the researcher need to take responsibility for any AI-generated code you use. We will come back to this in the next episode.
