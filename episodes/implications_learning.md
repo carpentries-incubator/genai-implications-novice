@@ -86,7 +86,7 @@ The study by Anthropic mentioned above also found that *how* someone used AI had
 
 ## Challenge:
 
-What are some strategies to avoid cognitive offloading and instead use AI strengthen your research computing skills?
+What are some strategies to avoid cognitive offloading and instead use AI to strengthen your research computing skills?
 
 :::::::::::::::::::::::: solution 
 
