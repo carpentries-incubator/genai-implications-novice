@@ -54,7 +54,7 @@ Consider the following questions:
 
 Shallow learning, also sometimes called surface learning or rote learning, refers to learning activities that are characterized by recalling and rote memorization. The knowledge gained from shallow learning is considered passive and tends to fade away from our memory.
 
-Deep learning, refers to learning activities that are characterized by an effort to connect with and understand the material conceptually. The knowledge gained from deep learning is considered active. Analyzing meaning by drawing connections, elaborating on ideas, and linking them to prior knowledge leads to long-term retention in memory.
+Deep learning refers to learning activities that are characterized by an effort to connect with and understand the material conceptually. The knowledge gained from deep learning is considered active. Analyzing meaning by drawing connections, elaborating on ideas, and linking them to prior knowledge, which leads to long-term retention in memory.
 
 Importantly, slow speed is an inherent characteristic of deep thinking and learning.
 
