@@ -75,7 +75,17 @@ A deep learning approach requires to be aware of *how* you are thinking and lear
 2. How can you develop your ability to recognize your choices in the moment?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::: callout
+In June 2026 the Norwegian government announced plans to reduce access to AI tools by learners in schools.
 
+From August 2026 these tools would not be available for learners aged 6 to 13yrs, with those aged 14 and 16 only able to use it under direct teacher supervision.
+
+Learners aged 17 to 19yrs will learn to "use AI appropriately" to prepare them for further education and work. 
+
+The Norwegian Prime Minister Jonas Gahr Støre said that using AI increases the risk that young children miss important steps in their education:"The most important thing in school is that our children learn to read, write, and do mathematics,".
+
+Source: [PC Mag UK: Norway bans AI in elementary schools](https://uk.pcmag.com/ai/165706/norway-bans-ai-in-elementary-schools)
+::::::::::::::::::::::::::::::::::::::::::::::::
 ## AI Engagement Strategies
 
 Over-reliance on AI for coding can prevent researchers from developing essential skills in research software development and data analysis. Without a solid understanding of the code it is impossible to reliably verify whether research results are correct and valid.
