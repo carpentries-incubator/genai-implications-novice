@@ -102,7 +102,7 @@ Alternatively, review the chat history: [ChatGPT transcript](chatgpt_transcript.
 
 Answer the questions:
 
-- Was thw question answered?
+- Was the question answered?
 - Where may the question answer of deviated?
 - Was there a risk of creating a non-reproducible result?
 
