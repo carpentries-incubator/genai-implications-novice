@@ -122,7 +122,7 @@ This will enable you to verify the model outputs.
 
 Research can take many forms. Traditional papers, software papers, software packages, contributions to open source projects or blog posts.
 
-In May 2026 nature reported on an increase of fake references in Bio-medical science papers. A study audited 2.5 million papers available via the PubMed Central (PMC) Open Access database published between January 2023 and February 2026. 300,000 were found to create fake references.
+In May 2026, Nature reported on an increase of fake references in Bio-medical science papers. A study audited 2.5 million papers available via the PubMed Central (PMC) Open Access database published between January 2023 and February 2026. 300,000 were found to create fake references.
 
 See: [Surge in fake citations uncovered by audit of 2.5 million biomedical-science papers](https://www.nature.com/articles/d41586-026-00748-w#ref-CR1)
 
