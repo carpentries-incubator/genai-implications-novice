@@ -65,7 +65,7 @@ The notion that thinking cannot be sped up stands in stark contrast to the promi
 
 In a [2026 study](https://www.anthropic.com/research/AI-assistance-coding-skills), Anthropic sought to determine whether cognitive offloading can prevent people from growing their coding skills. In a randomized controlled trial the study found that using AI assistance led to a statistically significant decrease in mastery. 
 
-A deep learning approach requires to be aware of *how* you are thinking and learning. The learning process becomes a meaningful experience in and of itself. 
+A deep learning approach requires you to be aware of *how* you are thinking and learning. The learning process becomes a meaningful experience in and of itself. 
 
 :::::::::::::::::::::::::::::::::::::: discussion
 
