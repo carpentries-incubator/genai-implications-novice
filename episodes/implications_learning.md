@@ -15,7 +15,7 @@ exercises: 10 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Understand the difference between a shallow and a deep approach to learning
+- Understand the difference between a shallow approach and a deep approach to learning
 - Understand how genAI can enhance or hinder skill acquisition
 - Relate the implications for using GenAI to the act of learning how to code 
 
