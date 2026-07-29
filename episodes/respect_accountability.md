@@ -9,7 +9,7 @@ exercises: 30 # exercise time in minutes
 - Why is there concern about the environmental impacts of GenAI?
 - What is a data worker?
 - What influences the output from a GenAI tool?
-- What the IP and data protection considerations when using GenAI tools?
+- What are the IP and data protection considerations when using GenAI tools?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
