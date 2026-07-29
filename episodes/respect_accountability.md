@@ -108,7 +108,75 @@ Have things gotten better since 2015?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## The process of model training
 
+LLM models predict tokens. After receiving an input text, also called 'prompt', it essentially predicts the most likely word to follow that text and continues like that up to a certain length.
+
+For example, if you enter the text below in to an LLM, the model continues your text predicting word after word with the Python code:
+
+```{python}
+def convert_miles_to_km(
+```
+
+LLMs develop the models that allow them to predict the next word by identifying patterns in unimaginable large quantities of text. That process is called pre-training.
+
+These pre-trained models come with a series of flaws. They do not necessarily interpret user input as an instruction or question, so the can be more difficult to use. They also are more likely to produce harmful or false outputs.
+
+To mitigate this, pre-training is usually followed by fine tuning. This process modifies pre-trained models, improves the types of outputs they are likely to produce, and lowers the risk of harmful or wrong output.
+
+There are several fine tuning techniques. One of it is called reinforcement learning, which aims to maximize a chosen measure of task performance (referred to as a reward signal)
+
+Reinforcement learning requires special machine learning models, called reward models, to provide a reward signal. The reward models take in some text and estimate its quality, usually by providing a numerical score. The score then can serve as the reward signal.
+
+There are two common methods to train reward models.
+
+**Reinforcement Learning From Human Feedback (RLHF)**: Human annotators compare two different model-generated responses to a prompt and choose which is better (example https://arxiv.org/abs/2203.02155)
+
+**Reinforcement Learning From AI Feedback (RLAIF)**: Instead of human annotators an LLM is used to rank the responses. Just like human annotators, the LLM is provided with written instructions on how to rate outputs. (example https://arxiv.org/abs/2212.08073)
+
+It is important to note that fine-tuning does not guarantee that a LLM works perfectly - its just is an improvement over the pre-trained model to reduce risks and make it more user friendly.
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+Given what you have learned about the process of model training, explore with your neighbour: 
+
+What are possible ways for biased views and value judgements to affect the model algorithm?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Embedded values
+
+The widespread deployment of LLMs has brought to light many concerns
+about biases embedded within the models. There are several ways how biases can enter into the LLMs we use. Below are a few examples.
+
+### Bias in training data
+
+The training data collected from the internet reflect societal biases present in online content, such as gender or racial stereotypes. Similarly, decisions made about which data to collect and how to curate the data, can introduce bias for example by introducing the the over or under representation of certain sources.
+
+### Bias in reward model / fine tuning
+
+Human feedback in RLHF trained reward models are based on real human judgments which are inevitably shaped by cognitive biases.
+
+RLAIF trained models are generated using prompts with a set of principles
+like “choose the less harmful response,” and asked to judge pairs of outputs.
+
+Both RLHF or RLAIF trained reward models can exhibit so called length bias, a tendency to favor longer responses by conflating verbosity with quality. The reward model correlates response length with quality (longer = more helpful)
+
+### Bias in design decisions
+
+Decisions about the model architecture during model development can impact how biases are represented and amplified. Like all of us, developers have implicit biases, so they may unconsciously make choices that exacerbate existing inequalities or fail to recognize certain biases.
+
+Some architectures may be more prone to certain types of biases due to their structural characteristics or the way they process input data. For example, a model optimized for accuracy might perform better on majority groups while neglecting minority groups.
+
+## Open and Closed Source Models
+
+There are three main levels of model 'openness'.
+
+- Fully open-source models with unrestricted access to code, weights, documentation and training data. Example https://www.apertus-ai.org/
+- Models with publicly available weights, which allow for fine-tuning and adaptation but do not disclose training processes or datasets. Example: Mistral and Llama
+- Fully closed, proprietary models typically accessible only through APIs or enterprise licenses. Example: GPT-models, Claude, Gemini.
+
+Unfortunately end users are left to deal with these embedded values. Even for fully open source models scrutinizing and adjusting the algorithms is not feasible, unless you are a developer.
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
