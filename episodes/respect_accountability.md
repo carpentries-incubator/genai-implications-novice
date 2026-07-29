@@ -1,6 +1,6 @@
 ---
 title: "Respect and Accountability"
-teaching: 15 # teaching time in minutes
+teaching: 30 # teaching time in minutes
 exercises: 30 # exercise time in minutes
 ---
 
@@ -266,10 +266,10 @@ It is therefore important for us to know what the tools and platforms we are usi
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
-- Use `.md` files for episodes when you want static content
-- Use `.Rmd` files for episodes when you need to generate output
-- Run `sandpaper::check_lesson()` to identify any issues with your lesson
-- Run `sandpaper::build_lesson()` to preview your lesson locally
+- The current AI boom is resulting in the building of new large scale data centres.
+- New large scale data centres are increasing the demands on energy and water supplies.
+- Machine learning relies on human workers, there is a history of poor working practices and lack of support for data workers.
+- There is a complex landscape around data protection and copyright, you will need to be aware of both your local regulations and those of any international partners you may have.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
