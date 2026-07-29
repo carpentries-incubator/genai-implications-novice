@@ -36,7 +36,7 @@ From the [UK Research Integrity Office on What is Research Integrity](https://uk
 
 ::::::::::::::::::::::::::::::::::::: discussion
 
-## Respect, accountability and GenAI
+### Respect, accountability and GenAI
 
 - Could we fall foul of these obligations through using GenAI?
 - What do we need to consider?
@@ -61,7 +61,7 @@ Use these resources to help to answer the following questions:
 - [Critical Minerals in AI and Digital Technologies](https://www.sfa-oxford.com/knowledge-and-insights/critical-minerals-in-low-carbon-and-future-technologies/critical-minerals-in-artificial-intelligence/)
 - [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)
 
-## Question 1: How has genAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
+### Question 1: How has genAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
 
 :::::::::::::::::::::::: solution 
 
@@ -69,7 +69,7 @@ A powerful model used by a small number of researchers has a very different envi
 
 :::::::::::::::::::::::::::::::::
 
-## Question 2: Describe three kinds of resources that are strained by demand.
+### Question 2: Describe three kinds of resources that are strained by demand.
 
 :::::::::::::::::::::::: solution 
 
@@ -194,7 +194,7 @@ There are concerns about how the training data was collected for Generative AI t
 
 ::::::::::::::::::::::::::::::::::::: discussion
 
-## Stack Overflow and ChatGPT
+### Stack Overflow and ChatGPT
 
 Read: [Stack Overflow users sabotage their posts after OpenAI deal](https://arstechnica.com/information-technology/2024/05/stack-overflow-users-sabotage-their-posts-after-openai-deal/)
 
@@ -219,6 +219,8 @@ Currently in the UK:
 
 "Where an AI model is used to generate material that reproduces all or a substantial part of a copyright work without permission this may also comprise an infringement of copyright if there is no relevant exception and no licence is in place. This act of infringement occurs at the output stage and may also create infringement through any subsequent dealing. Any action would be taken against the persons responsible for these respective acts, and depending on the circumstances, the user, the provider of the AI system and any person dealing with infringing content after it has been created may all be liable. Enforcement action against such infringement is available as for other infringements of copyright and would usually be pursued by the right holder through the civil courts."
 
+Source:[UK Government: Report on Copyright and Artificial Intelligence](https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence)
+
 There have been a number of cases where a generative AI tool has either reproduced or been suspected of reproducing copyrighted materials:
 
 - [Unity promises strong AI copyright 'guardrails' after employee conjures Mickey Mouse on stream](https://www.gamedeveloper.com/art/unity-promises-stronger-ai-copyright-guardrails-after-employee-conjures-mickey-mouse-on-stream)
@@ -234,6 +236,33 @@ In UK law there are existing protections for Computer Generated Works, however, 
 AI system without substantial human intervention—are not eligible for copyright protection in the EU.
 Such outputs are considered to fall into the public domain, making them freely available for anyone to
 use, reproduce, or adapt without seeking permission or providing attribution. " 
+
+::::::::::::::::::::::::::::::::::::: discussion
+
+### Implications for International Collaboration and Publication
+
+It is increasingly common that we are collaborating with colleagues in other institutions, and in other countries.
+
+- Given differences in the ability to protect AI generated outputs, are their any implications for collaborations?
+- Could these differences cause problems when publishing research software?
+
+A prompt is insufficient to count as original human work, when is the threshold crossed?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Protecting other peoples' data
+
+We often work with varying types of data files. These may contain various qualitative and quantitative data.
+
+If data files are uploaded to or accessed within an AI enabled environment it is not always clear what these tools are able to read, or where they be storing any uploaded data files.
+
+In the UK, the [Data (Use and Access) Act 2025](https://www.legislation.gov.uk/ukpga/2025/18/contents) got Royal Assent on 19 June 2025, as a result there have been a number of updates to Information Commissioner's Office (ICO) guidance. The ICO states that "the use of AI will involve a type of processing likely to result in a high risk to individuals’ rights and freedoms, and will therefore trigger the legal requirement for you to undertake a DPIA."
+
+See: [Guidance on AI and data protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/what-are-the-accountability-and-governance-implications-of-ai/#DPIA)
+
+Data Privacy Impact Assessments (DPIAs) are a requirement of the General Data Protection Regulation (GDPR), it is recognised by the European Parliament that there is some overlap between the AI Act and GDPR ([Interplay between the AI Act and the EU digital legislative framework](https://www.europarl.europa.eu/thinktank/en/document/ECTI_ATA(2025)778577)). The AI Act also requires the completion of a fundamental rights impact assessment when an AI system is deemed high risk. There are eight areas that are considered high risk ([Annex III: High-Risk AI Systems Referred to in Article 6(2)](https://artificialintelligenceact.eu/annex/3/)), in addition to AI systems that is intended to be used as a safety component of a product
+
+It is therefore important for us to know what the tools and platforms we are using have access to, and what is being shared. If you are working with commercially sensitive, personal and especially special category data you will want to ensure that you are working in a closed environment that is not transferring data outside of your organisation.
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
