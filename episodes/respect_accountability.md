@@ -1,7 +1,7 @@
 ---
 title: "Respect and Accountability"
-teaching: 10 # teaching time in minutes
-exercises: 2 # exercise time in minutes
+teaching: 15 # teaching time in minutes
+exercises: 30 # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
@@ -15,94 +15,101 @@ exercises: 2 # exercise time in minutes
 - Describe key environmental concerns relating to GenAI and machine learning
 - State key issues relating to data workers and workers rights
 - Awareness of embedded values in the tools
-- Describe current legal and ethical debates relating to data acquisition for training 
+- Describe current legal and ethical debates relating to GenAI
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown](https://pandoc.org/MANUAL.html) for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench](https://carpentries.github.io/sandpaper-docs/) for full documentation.
+We have explored a number of dimensions of research integrity through this lesson, including rigour and transparency.
 
-What you need to know is that there are three sections required for a valid
-Carpentries lesson:
+In this episode we will consider the dimensions of respect and accountability.
 
- 1. `questions` are displayed at the beginning of the episode to prime the
-    learner for the content.
- 2. `objectives` are the learning objectives for an episode displayed with
-    the questions.
- 3. `keypoints` are displayed at the end of the episode to reinforce the
-    objectives.
+From the [UK Research Integrity Office on What is Research Integrity](https://ukrio.org/research-integrity/what-is-research-integrity/):
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
+**Care and respect** are expected for everyone and everything involved in the research system, and for the protection of the integrity of the research record. They should be extended to everyone involved in the research process, all participants in research, and for the subjects, users and beneficiaries of research, including humans, animals, the environment and cultural objects. Those engaged with research must also show care and respect for the integrity of the research record.
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+**Accountability** is expected of everyone individually and collectively to create a research environment in which diverse individuals and organisations are empowered and enabled to own the research process and be accountable for their contributions to the research record. This includes being accountable to participants involved in research, and a responsibility to hold individuals and organisations to account when behaviour falls short of the standards set by the Concordat.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::: discussion
 
-::::::::::::::::::::::::::::::::::::: challenge 
+## Respect, accountability and GenAI
 
-## Challenge 1: Can you do it?
+- Could we fall foul of these obligations through using GenAI?
+- What do we need to consider?
 
-What is the output of this command?
-
-```r
-paste("This", "new", "lesson", "looks", "good")
-```
-
-:::::::::::::::::::::::: solution 
-
-## Output
- 
-```output
-[1] "This new lesson looks good"
-```
-
-:::::::::::::::::::::::::::::::::
-
-
-## Challenge 2: how do you nest solutions within challenge blocks?
-
-:::::::::::::::::::::::: solution 
-
-You can add a line with at least three colons and a `solution` tag.
-
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Figures
-
-You can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}
-
-::::::::::::::::::::::::::::::::::::: callout
-
-Callout sections can highlight information.
-
-They are sometimes used to emphasise particularly important points
-but are also used in some lessons to present "asides": 
-content that is not central to the narrative of the lesson,
-e.g. by providing the answer to a commonly-asked question.
+We will explore a range of key considerations in this episode.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+## GenAI, machine learning and the environment
 
-## Math
+Generative AI has a long history although it has only recently gained widespread attention. Building generative AI models involves selecting an appropriate model and algorithm, and training that algorithm on data.
 
-One of our episodes contains $\LaTeX$ equations when describing how to create
-dynamic reports with {knitr}, so we now use mathjax to describe this:
+Machine learning, an important subfield of AI, trains algorithms to recognize patterns in data and make predictions or decisions without being explicitly programmed. Computers can learn from experience and improve their performance over time. Machine learning is the foundation of most AI models and tools.
 
-`$\alpha = \dfrac{1}{(1 - \beta)^2}$` becomes: $\alpha = \dfrac{1}{(1 - \beta)^2}$
+Neither AI nor machine learning are new. Both have been around for decades and both have caused concern about environmental effects of their use during these decades. The key difference between then and now is computing power and scale. Relatively recent advances in computer science have enabled generative AI to become more widespread as mass-market consumer products. Data center buildout has been extremely rapid, increasing the scale in which generative AI is employed. AI data centers require enormous amounts of electricity and water, which strains local resources.
 
-Cool, right?
+::::::::::::::::::::::::::::::::::::: challenge
+
+Use these resources to help to answer the following questions:
+
+- [What are data centres and how sustainable are they?](https://post.parliament.uk/research-briefings/post-pn-0762/)
+- [Critical Minerals in AI and Digital Technologies](https://www.sfa-oxford.com/knowledge-and-insights/critical-minerals-in-low-carbon-and-future-technologies/critical-minerals-in-artificial-intelligence/)
+- [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)
+
+## Question 1: How has genAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
+
+:::::::::::::::::::::::: solution 
+
+A powerful model used by a small number of researchers has a very different environmental footprint than the same (or similar) model fielding requests from millions of users daily. Massive new use of genAI is what transformed environmental impact from a small-scale concern into a broader sustainability question. The scale of public use, not the technology itself, drives the sustainability question.
+
+:::::::::::::::::::::::::::::::::
+
+## Question 2: Describe three kinds of resources that are strained by demand.
+
+:::::::::::::::::::::::: solution 
+
+electricity, hardware/equipment, water
+
+:::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Decent work? 
+
+All forms of machine learning require human input. This is either in the form of labelling the training data, or increasingly in reviewing and verifying outputs for model correction and future training.
+
+Issues relating to worker exploitation have been well documented, an example is: 
+[My Experience as an Amazon Mechanical Turk (MTurk) Worker](https://www.psychologytoday.com/gb/blog/the-science-behind-behavior/201507/my-experience-as-an-amazon-mechanical-turk-mturk-worker)
+
+Have things gotten better since 2015?
+
+::::::::::::::::::::::::::::::::::::: challenge
+
+## Data workers
+
+Explore [UN SDG 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all](https://sdgs.un.org/goals/goal8)
+
+Watch: [Data Workers Inquiry video](https://youtu.be/tAMqrXlEPDI?si=qesPhySFUOP4Vf30)
+
+Write a minute paper answering the question: Is there a tension between the issues raised by the Data Workers Inquiry and UN SDG 8?
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: instructor
+
+You may choose to explore the UN SDG and watch the video as a group.
+
+Once learners have had an opportunity to reflect and draft the minute paper, you may want to engage them in a discussion around the question:
+
+Have things gotten better since 2015?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
@@ -113,4 +120,3 @@ Cool, right?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-[r-markdown]: https://rmarkdown.rstudio.com/
