@@ -181,6 +181,59 @@ There are three main levels of model 'openness'.
 
 Unfortunately end users are left to deal with these embedded values. Even for fully open source models scrutinizing and adjusting the algorithms is not feasible, unless you are a developer.
 
+## Training data acquisition, was it fair?
+
+Let's revisit care and respect.
+
+Care and respect are expected for everyone and everything involved in the research system, and for the protection of the integrity of the research record.
+
+There are concerns about how the training data was collected for Generative AI tools, and there have been a number of court cases where creators believe their rights have been infringed:
+
+- [Three key AI and copyright cases](https://www.publishers.org.uk/three-key-ai-and-copyright-cases/)
+- [The Higher Regional Court of Munich considered memorization and temporary copies occurred in model training as infringing reproductions of works](https://www.euipo.europa.eu/en/law/recent-case-law/the-higher-regional-court-of-munich-considered-memorization-and-temporary-copies-occurred-in-model-training-as-infringing-reproductions-of-works)
+
+::::::::::::::::::::::::::::::::::::: discussion
+
+## Stack Overflow and ChatGPT
+
+Read: [Stack Overflow users sabotage their posts after OpenAI deal](https://arstechnica.com/information-technology/2024/05/stack-overflow-users-sabotage-their-posts-after-openai-deal/)
+
+- Are the contributors to StackOverflow being respected, why and why not?
+- Does training a commercial product count as scientific research?
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: callout 
+
+[Using CC-licensed Works for AI Training](https://creativecommons.org/wp-content/uploads/2025/05/Using-CC-licensed-Works-for-AI-Training.pdf)
+
+The Creative Commons guidance notes that differences in national laws around copyright impact on the use of copyrighted materials in training data, it also notes that it may not be possible to attribute materials other than RAG trained systems.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Generated outputs and copyright infringements
+
+It is important to check that the outputs of a Generative AI tool is not infringing Copyright.
+
+Currently in the UK:
+
+"Where an AI model is used to generate material that reproduces all or a substantial part of a copyright work without permission this may also comprise an infringement of copyright if there is no relevant exception and no licence is in place. This act of infringement occurs at the output stage and may also create infringement through any subsequent dealing. Any action would be taken against the persons responsible for these respective acts, and depending on the circumstances, the user, the provider of the AI system and any person dealing with infringing content after it has been created may all be liable. Enforcement action against such infringement is available as for other infringements of copyright and would usually be pursued by the right holder through the civil courts."
+
+There have been a number of cases where a generative AI tool has either reproduced or been suspected of reproducing copyrighted materials:
+
+- [Unity promises strong AI copyright 'guardrails' after employee conjures Mickey Mouse on stream](https://www.gamedeveloper.com/art/unity-promises-stronger-ai-copyright-guardrails-after-employee-conjures-mickey-mouse-on-stream)
+
+## Protecting AI generated outputs
+
+In UK law there are existing protections for Computer Generated Works, however, this is not the case in other countries.
+[Section I of the UK Government Report on Copyright and Artificial Intelligence](https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence#section-i-computer-generated-works) outlines differences between UK law and other jurisdictions. 
+
+[The EU report Generative AI and Copyright states](https://www.europarl.europa.eu/RegData/etudes/STUD/2025/774095/IUST_STU(2025)774095_EN.pdf): 
+
+"purely AI-generated outputs—those created automatically by an
+AI system without substantial human intervention—are not eligible for copyright protection in the EU.
+Such outputs are considered to fall into the public domain, making them freely available for anyone to
+use, reproduce, or adapt without seeking permission or providing attribution. " 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
