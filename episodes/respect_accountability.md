@@ -16,8 +16,8 @@ exercises: 30 # exercise time in minutes
 ::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe key environmental concerns relating to GenAI and machine learning
-- State key issues relating to data workers and workers rights
-- Awareness of embedded values in the tools
+- State key issues relating to data workers and worker rights
+- Describe embedded values in the tools
 - Describe current legal and ethical debates relating to GenAI
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -38,7 +38,7 @@ From the [UK Research Integrity Office on What is Research Integrity](https://uk
 
 ### Respect, accountability and GenAI
 
-- Could we fall foul of these obligations through using GenAI?
+- Could we fall afoul of these obligations through using GenAI?
 - What do we need to consider?
 
 We will explore a range of key considerations in this episode.
@@ -121,13 +121,13 @@ For example, if you enter the text below in to an LLM, the model continues your 
 def convert_miles_to_km(
 ```
 
-LLMs develop the models that allow them to predict the next word by identifying patterns in unimaginable large quantities of text. That process is called pre-training.
+LLMs develop the models that allow them to predict the next word by identifying patterns in unimaginably large quantities of text. That process is called pre-training.
 
 These pre-trained models come with a series of flaws. They do not necessarily interpret user input as an instruction or question, so the can be more difficult to use. They also are more likely to produce harmful or false outputs.
 
 To mitigate this, pre-training is usually followed by fine tuning. This process modifies pre-trained models, improves the types of outputs they are likely to produce, and lowers the risk of harmful or wrong output.
 
-There are several fine tuning techniques. One of it is called reinforcement learning, which aims to maximize a chosen measure of task performance (referred to as a reward signal)
+There are several fine tuning techniques. One is called reinforcement learning, which aims to maximize a chosen measure of task performance (referred to as a reward signal).
 
 Reinforcement learning requires special machine learning models, called reward models, to provide a reward signal. The reward models take in some text and estimate its quality, usually by providing a numerical score. The score then can serve as the reward signal.
 
@@ -154,7 +154,7 @@ about biases embedded within the models. There are several ways how biases can e
 
 ### Bias in training data
 
-The training data collected from the internet reflect societal biases present in online content, such as gender or racial stereotypes. Similarly, decisions made about which data to collect and how to curate the data, can introduce bias for example by introducing the the over or under representation of certain sources.
+The training data collected from the internet reflect societal biases present in online content, such as gender or racial stereotypes. Similarly, decisions made about which data to collect and how to curate the data, can introduce bias for example by introducing the the over- or under-representation of certain sources.
 
 ### Bias in reward model / fine tuning
 
@@ -260,7 +260,7 @@ In the UK, the [Data (Use and Access) Act 2025](https://www.legislation.gov.uk/u
 
 See: [Guidance on AI and data protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/what-are-the-accountability-and-governance-implications-of-ai/#DPIA)
 
-Data Privacy Impact Assessments (DPIAs) are a requirement of the General Data Protection Regulation (GDPR), it is recognised by the European Parliament that there is some overlap between the AI Act and GDPR ([Interplay between the AI Act and the EU digital legislative framework](https://www.europarl.europa.eu/thinktank/en/document/ECTI_ATA(2025)778577)). The AI Act also requires the completion of a fundamental rights impact assessment when an AI system is deemed high risk. There are eight areas that are considered high risk ([Annex III: High-Risk AI Systems Referred to in Article 6(2)](https://artificialintelligenceact.eu/annex/3/)), in addition to AI systems that is intended to be used as a safety component of a product
+Data Privacy Impact Assessments (DPIAs) are a requirement of the General Data Protection Regulation (GDPR), it is recognised by the European Parliament that there is some overlap between the AI Act and GDPR ([Interplay between the AI Act and the EU digital legislative framework](https://www.europarl.europa.eu/thinktank/en/document/ECTI_ATA(2025)778577)). The AI Act also requires the completion of a fundamental rights impact assessment when an AI system is deemed high risk. There are eight areas that are considered high risk ([Annex III: High-Risk AI Systems Referred to in Article 6(2)](https://artificialintelligenceact.eu/annex/3/)), in addition to AI systems that are intended to be used as a safety component of a product.
 
 It is therefore important for us to know what the tools and platforms we are using have access to, and what is being shared. If you are working with commercially sensitive, personal and especially special category data you will want to ensure that you are working in a closed environment that is not transferring data outside of your organisation.
 
