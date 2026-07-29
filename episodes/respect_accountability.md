@@ -6,7 +6,10 @@ exercises: 30 # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- How do you write a lesson using Markdown and `{sandpaper}`?
+- Why is there concern about the environmental impacts of GenAI?
+- What is a data worker?
+- What influences the output from a GenAI tool?
+- What the IP and data protection considerations when using GenAI tools?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
