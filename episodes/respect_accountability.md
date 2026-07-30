@@ -51,7 +51,7 @@ Generative AI has a long history although it has only recently gained widespread
 
 Machine learning, an important subfield of AI, trains algorithms to recognize patterns in data and make predictions or decisions without being explicitly programmed. Computers can learn from experience and improve their performance over time. Machine learning is the foundation of most AI models and tools.
 
-Neither AI nor machine learning are new. Both have been around for decades and both have caused concern about environmental effects of their use during these decades. The key difference between then and now is computing power and scale. Relatively recent advances in computer science have enabled generative AI to become more widespread as mass-market consumer products. Data center buildout has been extremely rapid, increasing the scale in which generative AI is employed. AI data centers require enormous amounts of electricity and water, which strains local resources.
+Neither AI nor machine learning are new. Both have been around for decades and both have caused concern about environmental effects of their use during these decades. The key difference between then and now is computing power and scale. Relatively recent advances in computer science have enabled generative AI to become more widespread as mass-market consumer products. Data center buildout has been extremely rapid, increasing the scale in which generative AI is employed. AI data centers require enormous amounts of electricity, water, and land, which strains local resources.
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
@@ -73,7 +73,7 @@ A powerful model used by a small number of researchers has a very different envi
 
 :::::::::::::::::::::::: solution 
 
-electricity, hardware/equipment, water
+electricity, land, water
 
 :::::::::::::::::::::::::::::::::
 
