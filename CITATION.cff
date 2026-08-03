@@ -1,11 +1,10 @@
-# This template CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to replace its contents
-# with information about your lesson.
-# Remember to update this file periodically, 
-# ensuring that the author list and other fields remain accurate.
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: FIXME
+title: >-
+  Exploring Implications of Generative AI (for programming
+  novices)
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -13,10 +12,48 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Samantha
+    family-names: Ahern
+    email: s.ahern@ucl.ac.uk
+    affiliation: UCL
+    orcid: 'https://orcid.org/0000-0002-5460-7671'
+  - given-names: Sue
+    family-names: McClatchy
+  - given-names: Claudia
+    family-names: Engel
+  - given-names: Magnus
+    family-names: Hagdorn
+  - given-names: Amanda
+    family-names: Kiss
+  - given-names: Jennifer
+    family-names: Stubbs
+repository-code: >-
+  https://github.com/carpentries-incubator/genai-implications-novice
+url: >-
+  https://carpentries-incubator.github.io/genai-implications-novice/
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  This is an AI Carpentry lesson.
+
+
+  After following this lesson, learners will be able to:
+
+  - Identify potential ethical and environmental issues
+  relating to GenAI platforms development and use
+
+  - Identify implications relating to IP and copyright
+  relating to GenAI platforms development and use
+
+  - Articulate how the use of GenAI may interact with
+  research integrity
+
+  - State a number of considerations required to make an
+  informed decision about when, where, or if to use GenAI
+  for coding
+
+
+  The primary audience for this lesson is programming
+  novices, however, many of the discussion points are
+  relevant to competent practitioners who may be considering
+  using Generative AI tools is their software development
+  pipelines.
 license: CC-BY-4.0
