@@ -92,7 +92,7 @@ Have things gotten better since 2015?
 
 ## Data workers
 
-Explore [UN SDG 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all](https://sdgs.un.org/goals/goal8)
+Explore [UN Sustainable Development Goal 8: Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all](https://sdgs.un.org/goals/goal8)
 
 Watch: [Data Workers Inquiry video](https://youtu.be/tAMqrXlEPDI?si=qesPhySFUOP4Vf30)
 
@@ -180,6 +180,14 @@ There are three main levels of model 'openness'.
 - Fully closed, proprietary models typically accessible only through APIs or enterprise licenses. Example: GPT-models, Claude, Gemini.
 
 Unfortunately end users are left to deal with these embedded values. Even for fully open source models scrutinizing and adjusting the algorithms is not feasible, unless you are a developer.
+
+::::::::::::::::::::::::::::::::::::: instructor
+
+The following topics currently use legal examples from the UK and Europe. We hope to expand examples from other areas over time.
+
+Please adjust to add examples from your own context.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Training data acquisition, was it fair?
 
