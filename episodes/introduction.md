@@ -93,7 +93,7 @@ The UK Research Integrity Office defines research integrity as all of the factor
 
 ### Dimensions of research integrity
 
-![Dimensions of Research Integrity](images/WhatisRI.png)
+![Dimensions of Research Integrity](fig/WhatisRI.png)
 
 :::::::::::::::::::::::::::::::::::::: spoiler
 
