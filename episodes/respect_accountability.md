@@ -61,19 +61,13 @@ Use these resources to help to answer the following questions:
 - [Critical Minerals in AI and Digital Technologies](https://www.sfa-oxford.com/knowledge-and-insights/critical-minerals-in-low-carbon-and-future-technologies/critical-minerals-in-artificial-intelligence/)
 - [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)
 
-### Question 1: How has genAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
+1. How has genAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
+2. Describe three kinds of resources that are strained by demand.
 
 :::::::::::::::::::::::: solution 
 
-A powerful model used by a small number of researchers has a very different environmental footprint than the same (or similar) model fielding requests from millions of users daily. Massive new use of genAI is what transformed environmental impact from a small-scale concern into a broader sustainability question. The scale of public use, not the technology itself, drives the sustainability question.
-
-:::::::::::::::::::::::::::::::::
-
-### Question 2: Describe three kinds of resources that are strained by demand.
-
-:::::::::::::::::::::::: solution 
-
-electricity, land, water
+1. A powerful model used by a small number of researchers has a very different environmental footprint than the same (or similar) model fielding requests from millions of users daily. Massive new use of genAI is what transformed environmental impact from a small-scale concern into a broader sustainability question. The scale of public use, not the technology itself, drives the sustainability question.
+2. Electricity, land, and water
 
 :::::::::::::::::::::::::::::::::
 
