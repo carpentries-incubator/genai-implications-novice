@@ -38,12 +38,22 @@ From the [UK Research Integrity Office on What is Research Integrity](https://uk
 
 ### Respect, accountability and GenAI
 
-- Could we fall afoul of these obligations through using GenAI?
+- Could we fall foul of these obligations through using GenAI?
 - What do we need to consider?
 
 We will explore a range of key considerations in this episode.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Sustainability and digital content consumption
+
+In 2021 there was 3.4ZB of global data traffic, a 440% growth since 2015, with data traffic continuing to grow.
+
+It is reported by Kepios that in 2025 there were 6.04 billion internet users, with an average global access level of 73.2%, predominantly in urban areas. 96% of access to the internet is via mobile phones, with the average user consuming 33hrs and 27mins of online media each week.
+
+ We can consider the overall impact of this consumption via a life cycle assessment:
+ 
+ <img src="fig/digital_consumption_lifecycle.png" width="200" height="200">
 
 ## GenAI, machine learning and the environment
 
