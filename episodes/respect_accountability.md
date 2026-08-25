@@ -53,7 +53,7 @@ It is reported by Kepios that in 2025 there were 6.04 billion internet users, wi
 
  We can consider the overall impact of this consumption via a life cycle assessment:
  
- <img src="fig/digital_consumption_lifecycle.png" width="200" height="200">
+ <img src="images/digital_consumption_lifecycle.png" width="200" height="200">
 
 ## GenAI, machine learning and the environment
 
