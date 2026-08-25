@@ -114,7 +114,9 @@ A powerful model used by a small number of researchers has a very different envi
 
 :::::::::::::::::::::::: solution 
 
-electricity, land, water
+
+2. Electricity, land, and water
+
 
 :::::::::::::::::::::::::::::::::
 
@@ -242,7 +244,7 @@ Unfortunately end users are left to deal with these embedded values. Even for fu
 
 The following topics currently use legal examples from the UK and Europe. We hope to expand examples from other areas over time.
 
-Please adjust to add examples from your own context.
+Please adjust to add examples from your own context. For example,  the US Copyright Office: https://www.copyright.gov/ai/ specifically part 2, a 50 page PDF.  Mostly page 41 of the document, then explained in detail in various contexts throughout.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
