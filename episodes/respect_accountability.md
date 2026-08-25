@@ -51,17 +51,34 @@ In 2021 there was 3.4ZB of global data traffic, a 440% growth since 2015, with d
 
 It is reported by Kepios that in 2025 there were 6.04 billion internet users, with an average global access level of 73.2%, predominantly in urban areas. 96% of access to the internet is via mobile phones, with the average user consuming 33hrs and 27mins of online media each week.
 
- We can consider the overall impact of this consumption via a life cycle assessment:
+ We can consider the overall impact of this consumption via the standardised life cycle assessment (LCA) methodology:
  
  <img src="images/digital_consumption_lifecycle.png" width="200" height="200">
+
+ From:[The environmental sustainability of digital content consumption](https://www.nature.com/articles/s41467-024-47621-w/figures/1)
+
+In 2009 the planetary boundary concept was introduced, this aimed to define the environmental limits in which humanity can safely operate. At that time 7 boundaries was assessed and 3 had been crossed. Since 2023 we have been able to assess 9 boundaries, with 7 being crossed in 2025.
+
+<img src="images/PB-over-time-v3_2.jpg" width="200" height="200">
+The evolution of the planetary boundaries framework. Licenced under CC BY-NC-ND 3.0 (Credit: Azote for Stockholm Resilience Centre, Stockholm University. Based on Sakschewski and Caesar et al. 2025, Richardson et al. 2023, Steffen et al. 2015, and Rockström et al. 2009).
+
+To stay within planetary boundaries we need to operate within the carrying capacity of the Earth. In 2015, carrying capacity was  defined as 'the maximum sustained environmental intervention a natural system can withstand without experiencing negative changes in structure or functioning that are difficult or impossible to revert'. A series of annual per capita limits were defined across 16 categories to assess human activity against carrying capacity.
+
+Based on 2020 data reported in Istrate, R., Tulus, V., Grass, R.N. et al. (2024), digital content consumption accounted for 54.9% of global per capita carrying capacity for minerals and metals resource use. 
+
+<img src="images/capacity_per_capita.png" width="200" height="200">
+
+How different components of digital consumption systems contribute to the total impact varies based on energy generation mix.
+ 
+<img src="images/energy_mix_contribution.png" width="200" height="200">
 
 ## GenAI, machine learning and the environment
 
 Generative AI has a long history although it has only recently gained widespread attention. Building generative AI models involves selecting an appropriate model and algorithm, and training that algorithm on data.
 
-Machine learning, an important subfield of AI, trains algorithms to recognize patterns in data and make predictions or decisions without being explicitly programmed. Computers can learn from experience and improve their performance over time. Machine learning is the foundation of most AI models and tools.
+Machine learning, an important subfield of AI, trains algorithms to recognise patterns in data and make predictions or decisions without being explicitly programmed. Computers can learn from experience and improve their performance over time. Machine learning is the foundation of most AI models and tools.
 
-Neither AI nor machine learning are new. Both have been around for decades and both have caused concern about environmental effects of their use during these decades. The key difference between then and now is computing power and scale. Relatively recent advances in computer science have enabled generative AI to become more widespread as mass-market consumer products. [Data center buildout has been extremely rapid](https://brockovichdatacenter.com/#map-section), increasing the scale in which generative AI is employed. AI data centers require enormous amounts of electricity, water, and land, which strains local resources.
+Neither AI nor machine learning are new. Both have been around for decades and both have caused concern about environmental effects of their use during these decades. The key difference between then and now is computing power and scale. Relatively recent advances in computer science have enabled generative AI to become more widespread as mass-market consumer products. [Data centre build out has been extremely rapid](https://brockovichdatacenter.com/#map-section), increasing the scale in which generative AI is employed. AI data centres require enormous amounts of electricity, water, and land, which strains local resources.
 
 ::::::::::::::::::::::::::::::::::::: challenge
 
@@ -71,7 +88,7 @@ Use these resources to help to answer the following questions:
 - [Critical Minerals in AI and Digital Technologies](https://www.sfa-oxford.com/knowledge-and-insights/critical-minerals-in-low-carbon-and-future-technologies/critical-minerals-in-artificial-intelligence/)
 - [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)
 
-### Question 1: How has genAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
+### Question 1: How has GenAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
 
 :::::::::::::::::::::::: solution 
 
