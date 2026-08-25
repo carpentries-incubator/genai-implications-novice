@@ -17,7 +17,7 @@ exercises: 30 # exercise time in minutes
 - Awareness of reproducibility concerns re: GenA I outputs
 - Awareness of limitations of explainable AI
 - Awareness of business models and how these impact behaviours
-- Awareness of differing journal requirements re: declaring use of Generative AI
+- Awareness of differing journal requirements, especially declaring use of Generative AI
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -169,7 +169,7 @@ Take it in turns to share your thoughts with your neighbours.
 - It is important to be transparent about where and how Generative AI has been used in your work flow
 - There are differences between the Open Source and Open AI definitions
 - Some Generative AI tools are designed to encourage engagement with the tool
-- Check the rules around Generative AI use for your choden dissemination channel
+- Check the rules around Generative AI use for your chosen dissemination channel
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
