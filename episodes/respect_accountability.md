@@ -72,6 +72,19 @@ How different components of digital consumption systems contribute to the total 
  
 <img src="images/energy_mix_contribution.png" width="200" height="200">
 
+**a** Norwegian electricity mix, **b** global average electricity mix, and **c** Indian electricity mix. These mixes were chosen to represent a very low (Norway), average (World), and very high (India) GHG emission intensity of electricity. Operation refers to impacts from the consumption of electricity in the use stage, while embodied refers to impacts from raw materials extraction, manufacturing, distribution, and end-of-life management. Overall, the impact embodied in the end-user devices generally dominates the total impacts. CPE: customer premise equipment.
+
+The 2024 study found that the operation of data centres was responsible on average for 20–30% of climate impacts, acidification, freshwater eutrophication, photochemical ozone formation, particulate matter, ionising radiation, fossil resource use, and land and water use. With video streaming generating on average between 40% and 52% of total impacts.
+
+Decarbonisation of the power sector could significantly mitigate a number of impacts associated with digital content consumption, however, concerns would persist regarding the use of mineral and metal resources.
+
+For further reading see:
+- The environmental sustainability of digital content consumption](https://doi.org/10.1038/s41467-024-47621-w)
+- [2026 Global Digital Report](https://datareportal.com/reports/digital-2026-global-overview-report)
+- [Planetary Boundaries - Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+- [How to reduce the environmental impact of your next virtual meeting](https://news.mit.edu/2021/how-to-reduce-environmental-impact-next-virtual-meeting-0304)
+- [Planetary boundaries: Guiding human development on a changing planet](https://www.science.org/doi/10.1126/science.1259855)
+
 ## GenAI, machine learning and the environment
 
 Generative AI has a long history although it has only recently gained widespread attention. Building generative AI models involves selecting an appropriate model and algorithm, and training that algorithm on data.
@@ -87,12 +100,13 @@ Use these resources to help to answer the following questions:
 - [What are data centres and how sustainable are they?](https://post.parliament.uk/research-briefings/post-pn-0762/)
 - [Critical Minerals in AI and Digital Technologies](https://www.sfa-oxford.com/knowledge-and-insights/critical-minerals-in-low-carbon-and-future-technologies/critical-minerals-in-artificial-intelligence/)
 - [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)
+- [Ecological footprint calculator](https://www.footprintcalculator.org/home/en)
 
 ### Question 1: How has GenAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
 
 :::::::::::::::::::::::: solution 
 
-A powerful model used by a small number of researchers has a very different environmental footprint than the same (or similar) model fielding requests from millions of users daily. Massive new use of genAI is what transformed environmental impact from a small-scale concern into a broader sustainability question. The scale of public use, not the technology itself, drives the sustainability question.
+A powerful model used by a small number of researchers has a very different environmental footprint than the same (or similar) model fielding requests from millions of users daily. Massive new use of GenAI is what transformed environmental impact from a small-scale concern into a broader sustainability question. The scale of public use, not the technology itself, drives the sustainability question.
 
 :::::::::::::::::::::::::::::::::
 
@@ -101,6 +115,22 @@ A powerful model used by a small number of researchers has a very different envi
 :::::::::::::::::::::::: solution 
 
 electricity, land, water
+
+:::::::::::::::::::::::::::::::::
+
+### Question 3: How are the demands for increased energy currently being met? What are the implications?
+
+:::::::::::::::::::::::: solution 
+
+Some data centres have built their own power facilities utilising carbon based fuels. 
+
+:::::::::::::::::::::::::::::::::
+
+### Question 4: How does this compare to other human activities?
+
+:::::::::::::::::::::::: solution 
+
+Spend a few mins exploring the ecological footprint calculator. Was anything surprising?
 
 :::::::::::::::::::::::::::::::::
 
