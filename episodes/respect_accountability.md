@@ -1,4 +1,4 @@
----
+0---
 title: "Respect and Accountability"
 teaching: 30 # teaching time in minutes
 exercises: 30 # exercise time in minutes
@@ -215,7 +215,7 @@ The Creative Commons guidance notes that differences in national laws around cop
 
 ## Generated outputs and copyright infringements
 
-It is important to check that the outputs of a Generative AI tool is not infringing Copyright.
+It is important to check that the outputs of a Generative AI tool is not infringing Copyright. Given that models have been trained on copyrighted works, it is likely that their output will contain fragments of copyrighted work. AI companies claim that it is impossible to properly attribute works to their authors in generated output. Violation of copyright law is serious, as is plagiarism. Plagiarism can end careers even if discovered decades later. Accusations of plagiarism are subjective and can damage careers even if unfounded. Tracing the sources of AI-generated output is onerous, and using this output in published works is risky. 
 
 Currently in the UK:
 
