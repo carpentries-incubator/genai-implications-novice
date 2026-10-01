@@ -94,11 +94,14 @@ Many Generative AI tools are designed to keep the user engaged with the tool. Yo
 
 The question I would like to answer: Is there a statistically significant relationship between population density, GDP per capita and life expectancy?
 
-Watch the video of the interaction with an LLM: [https://youtu.be/cecGWV6BpVo](https://youtu.be/cecGWV6BpVo)
+Review the chat history: [CoPilot transcript](CoPilotChat/chat_transcript.md)
 
-This video does not have any audio
-
-Alternatively, review the chat history: [ChatGPT transcript](chatgpt_transcript.md)
+You can also view the plots generated as part of the chat:
+- [Plot 1: Population Density vs Life Expectency](CoPilotChat/ChatPlot1.png)
+- [Plot 2: Population Density vs Life Expectency (coloured by GDP)](CoPilotChat/ChatPlot2.png)
+- [Plot 3: Population Density (log) vs Life Expectancy (coloured by GDP per)](CoPilotChat/ChatPlot3.png)
+- [Plot 4: Partial Effect of GDP on Life Expectancy (holding othersconstant)](CoPilotChat/ChatPlot4.png)
+- [Plot 5: Comparison of Partial Effects: GDP vs Density](CoPilotChat/ChatPlot5.png)
 
 Answer the questions:
 
