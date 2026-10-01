@@ -1,4 +1,4 @@
-0---
+---
 title: "Respect and Accountability"
 teaching: 30 # teaching time in minutes
 exercises: 30 # exercise time in minutes
@@ -38,7 +38,7 @@ From the [UK Research Integrity Office on What is Research Integrity](https://uk
 
 ### Respect, accountability and GenAI
 
-- Could we fall afoul of these obligations through using GenAI?
+- Could we fail to meet these obligations through using GenAI?
 - What do we need to consider?
 
 We will explore a range of key considerations in this episode.
