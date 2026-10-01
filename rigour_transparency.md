@@ -34,6 +34,10 @@ This is demonstrated through:
 
 This includes acknowledging the use of tools such as emerging technologies, e.g. Generative AI.
 
+## Open Acccess versus Open Source
+
+There is a wide range of Generative AI and more specifically, Large Language Models that are "free" to use without registering for an account. These often offer very little control over what data is collected during use and re-used for future model training.
+
 ::::::::::::::::::::::::::::::::::::: quote
 
 "If you don’t pay for it you are the product"
@@ -41,10 +45,6 @@ This includes acknowledging the use of tools such as emerging technologies, e.g.
 Margaret McCartney, 2018
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Open Acccess versus Open Source
-
-There is a wide range of Generative AI and more specifically, Large Language Models that are "free" to use without registering for an account. These often offer very little control over what data is collected during use and re-used for future model training.
 
 Although subscriptions provide a level of control over what data is collected about your use, their is limited information available about how the tool was created. They are often closed source.
 
