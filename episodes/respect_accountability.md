@@ -49,7 +49,7 @@ We will explore a range of key considerations in this episode.
 
 In 2021 there was 3.4ZB of global data traffic, a 440% growth since 2015, with data traffic continuing to grow.
 
-It is reported by Kepios that in 2025 there were 6.04 billion internet users, with an average global access level of 73.2%, predominantly in urban areas. 96% of access to the internet is via mobile phones, with the average user consuming 33hrs and 27mins of online media each week.
+It is reported by Kepios that in 2025 there were 6.04 billion internet users, with an average global access level of 73.2%, predominantly in urban areas. 96% of access to the internet was via mobile phones, with the average user consuming 33hrs and 27mins of online media each week.
 
  We can consider the overall impact of this consumption via the standardised life cycle assessment (LCA) methodology:
  
