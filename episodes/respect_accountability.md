@@ -38,7 +38,7 @@ From the [UK Research Integrity Office on What is Research Integrity](https://uk
 
 ### Respect, accountability and GenAI
 
-- Could we fall foul of these obligations through using GenAI?
+- Could we fail to meet these obligations through using GenAI?
 - What do we need to consider?
 
 We will explore a range of key considerations in this episode.
@@ -280,7 +280,7 @@ The Creative Commons guidance notes that differences in national laws around cop
 
 ## Generated outputs and copyright infringements
 
-It is important to check that the outputs of a Generative AI tool is not infringing Copyright.
+It is important to check that the outputs of a Generative AI tool is not infringing Copyright. Given that models have been trained on copyrighted works, it is likely that their output will contain fragments of copyrighted work. AI companies claim that it is impossible to properly attribute works to their authors in generated output. Violation of copyright law is serious, as is plagiarism. Plagiarism can end careers even if discovered decades later. Accusations of plagiarism are subjective and can damage careers even if unfounded. Tracing the sources of AI-generated output is onerous, and using this output in published works is risky. 
 
 Currently in the UK:
 

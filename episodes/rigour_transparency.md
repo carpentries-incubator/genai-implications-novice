@@ -34,6 +34,10 @@ This is demonstrated through:
 
 This includes acknowledging the use of tools such as emerging technologies, e.g. Generative AI.
 
+## Open Acccess versus Open Source
+
+There is a wide range of Generative AI and more specifically, Large Language Models that are "free" to use without registering for an account. These often offer very little control over what data is collected during use and re-used for future model training.
+
 ::::::::::::::::::::::::::::::::::::: quote
 
 "If you don’t pay for it you are the product"
@@ -41,10 +45,6 @@ This includes acknowledging the use of tools such as emerging technologies, e.g.
 Margaret McCartney, 2018
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Open Acccess versus Open Source
-
-There is a wide range of Generative AI and more specifically, Large Language Models that are "free" to use without registering for an account. These often offer very little control over what data is collected during use and re-used for future model training.
 
 Although subscriptions provide a level of control over what data is collected about your use, their is limited information available about how the tool was created. They are often closed source.
 
@@ -54,15 +54,21 @@ How do you know you have used an appropriate method, if you do not know how the 
 
 ### Think, Pair, Share
 
-Read the [definition of open source AI](https://opensource.org/ai/open-source-ai-definition). 
+[The Open Source Initiative](https://opensource.org/ai/faq#what-is-an-open-source-ai) defines an Open AI as: "An Open Source AI is an AI system made freely available with all necessary code, data and parameters under legal terms approved by the Open Source Initiative."
 
-- How does the Open Source AI definition compare to the [Open Source definition](https://opensource.org/osd)?
+[OpenSource.com](https://opensource.com/resources/what-open-source) defines open source as: "something people can modify and share because its design is publicly accessible."
+
+- How do these definitions compare to each other? 
 
 - How much does it reduce blackbox and aid explainability?
 
 Spend 2 minutes thinking about your response.
 
 Take it in turns to share your thoughts with your neighbours.
+
+For full definitions see:
+- [Open Source definition](https://opensource.org/osd)
+- [Definition of open source AI](https://opensource.org/ai/open-source-ai-definition)
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
