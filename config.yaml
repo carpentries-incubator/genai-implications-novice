@@ -74,7 +74,8 @@ episodes:
 
 
 # Information for Learners
-learners: 
+learners:
+- further-reading.md
 
 # Information for Instructors
 instructors: 
