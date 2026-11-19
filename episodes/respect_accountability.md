@@ -79,8 +79,8 @@ The 2024 study found that the operation of data centres was responsible on avera
 
 Decarbonisation of the power sector could significantly mitigate a number of impacts associated with digital content consumption, however, concerns would persist regarding the use of mineral and metal resources.
 
-For further reading see:
-- The environmental sustainability of digital content consumption](https://doi.org/10.1038/s41467-024-47621-w)
+For further reading see: 
+- [The environmental sustainability of digital content consumption](https://doi.org/10.1038/s41467-024-47621-w)
 - [2026 Global Digital Report](https://datareportal.com/reports/digital-2026-global-overview-report)
 - [Planetary Boundaries - Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 - [How to reduce the environmental impact of your next virtual meeting](https://news.mit.edu/2021/how-to-reduce-environmental-impact-next-virtual-meeting-0304)
