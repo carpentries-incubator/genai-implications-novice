@@ -102,7 +102,7 @@ Use these resources to help to answer the following questions:
 - [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)
 - [Ecological footprint calculator](https://www.footprintcalculator.org/home/en)
 
-### Question 1: How has GenAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
+Question 1: How has GenAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
 
 :::::::::::::::::::::::: solution 
 
@@ -110,7 +110,7 @@ A powerful model used by a small number of researchers has a very different envi
 
 :::::::::::::::::::::::::::::::::
 
-### Question 2: Describe three kinds of resources that are strained by demand.
+Question 2: Describe three kinds of resources that are strained by demand.
 
 :::::::::::::::::::::::: solution 
 
@@ -120,7 +120,7 @@ A powerful model used by a small number of researchers has a very different envi
 
 :::::::::::::::::::::::::::::::::
 
-### Question 3: How are the demands for increased energy currently being met? What are the implications?
+Question 3: How are the demands for increased energy currently being met? What are the implications?
 
 :::::::::::::::::::::::: solution 
 
@@ -128,7 +128,7 @@ Some data centres have built their own power facilities utilising carbon based f
 
 :::::::::::::::::::::::::::::::::
 
-### Question 4: How does this compare to other human activities?
+Question 4: How does this compare to other human activities?
 
 :::::::::::::::::::::::: solution 
 
