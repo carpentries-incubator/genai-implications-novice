@@ -53,13 +53,13 @@ It is reported by Kepios that in 2025 there were 6.04 billion internet users, wi
 
  We can consider the overall impact of this consumption via the standardised life cycle assessment (LCA) methodology:
 
- ![Digital Consumption Lifecycle - from materials extraction to end user interaction](images/digital_consumption_lifecycle.png)
+ ![Digital Consumption Lifecycle - from materials extraction to end user interaction](images/digital_consumption_lifecycle_resized.png)
 
  From:[The environmental sustainability of digital content consumption](https://www.nature.com/articles/s41467-024-47621-w/figures/1)
 
 In 2009 the planetary boundary concept was introduced, this aimed to define the environmental limits in which humanity can safely operate. At that time 7 boundaries were assessed and 3 had been crossed. Since 2023 we have been able to assess 9 boundaries, with 7 being crossed in 2025.
 
- ![The evolution of the planetary boundaries framework. How boundaries have been breached over time](images/PB-over-time-v3_2.jpg)
+ ![The evolution of the planetary boundaries framework. How boundaries have been breached over time](images/PB-over-time-v3_2_resized.jpg)
  
 The evolution of the planetary boundaries framework. Licenced under CC BY-NC-ND 3.0 (Credit: Azote for Stockholm Resilience Centre, Stockholm University. Based on Sakschewski and Caesar et al. 2025, Richardson et al. 2023, Steffen et al. 2015, and Rockström et al. 2009).
 
@@ -67,11 +67,11 @@ To stay within planetary boundaries we need to operate within the carrying capac
 
 Based on 2020 data reported in Istrate, R., Tulus, V., Grass, R.N. et al. (2024), digital content consumption accounted for 54.9% of global per capita carrying capacity for minerals and metals resource use. 
 
- ![Capacity per capita](images/capacity_per_capita.png)
+ ![Capacity per capita](images/capacity_per_capita_resized.png)
 
 How different components of digital consumption systems contribute to the total impact varies based on energy generation mix.
 
-  ![Energy mix contribution](images/energy_mix_contribution.png)
+  ![Energy mix contribution](images/energy_mix_contribution_resized.png)
 
 **a** Norwegian electricity mix, **b** global average electricity mix, and **c** Indian electricity mix. These mixes were chosen to represent a very low (Norway), average (World), and very high (India) GHG emission intensity of electricity. Operation refers to impacts from the consumption of electricity in the use stage, while embodied refers to impacts from raw materials extraction, manufacturing, distribution, and end-of-life management. Overall, the impact embodied in the end-user devices generally dominates the total impacts. CPE: customer premise equipment.
 
