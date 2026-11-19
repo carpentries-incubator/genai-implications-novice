@@ -52,25 +52,26 @@ In 2021 there was 3.4ZB of global data traffic, a 440% growth since 2015, with d
 It is reported by Kepios that in 2025 there were 6.04 billion internet users, with an average global access level of 73.2%, predominantly in urban areas. 96% of access to the internet was via mobile phones, with the average user consuming 33hrs and 27mins of online media each week.
 
  We can consider the overall impact of this consumption via the standardised life cycle assessment (LCA) methodology:
- 
- <img src="images/digital_consumption_lifecycle.png" width="200" height="200">
+
+ ![Digital Consumption Lifecycle - from materials extraction to end user interaction](images/digital_consumption_lifecycle_resized.png)
 
  From:[The environmental sustainability of digital content consumption](https://www.nature.com/articles/s41467-024-47621-w/figures/1)
 
 In 2009 the planetary boundary concept was introduced, this aimed to define the environmental limits in which humanity can safely operate. At that time 7 boundaries were assessed and 3 had been crossed. Since 2023 we have been able to assess 9 boundaries, with 7 being crossed in 2025.
 
-<img src="images/PB-over-time-v3_2.jpg" width="200" height="200">
+ ![The evolution of the planetary boundaries framework. How boundaries have been breached over time](images/PB-over-time-v3_2_resized.jpg)
+ 
 The evolution of the planetary boundaries framework. Licenced under CC BY-NC-ND 3.0 (Credit: Azote for Stockholm Resilience Centre, Stockholm University. Based on Sakschewski and Caesar et al. 2025, Richardson et al. 2023, Steffen et al. 2015, and Rockström et al. 2009).
 
 To stay within planetary boundaries we need to operate within the carrying capacity of the Earth. In 2015, carrying capacity was  defined as 'the maximum sustained environmental intervention a natural system can withstand without experiencing negative changes in structure or functioning that are difficult or impossible to revert'. A series of annual per capita limits were defined across 16 categories to assess human activity against carrying capacity.
 
 Based on 2020 data reported in Istrate, R., Tulus, V., Grass, R.N. et al. (2024), digital content consumption accounted for 54.9% of global per capita carrying capacity for minerals and metals resource use. 
 
-<img src="images/capacity_per_capita.png" width="200" height="200">
+ ![Capacity per capita](images/capacity_per_capita_resized.png)
 
 How different components of digital consumption systems contribute to the total impact varies based on energy generation mix.
- 
-<img src="images/energy_mix_contribution.png" width="200" height="200">
+
+  ![Energy mix contribution](images/energy_mix_contribution_resized.png)
 
 **a** Norwegian electricity mix, **b** global average electricity mix, and **c** Indian electricity mix. These mixes were chosen to represent a very low (Norway), average (World), and very high (India) GHG emission intensity of electricity. Operation refers to impacts from the consumption of electricity in the use stage, while embodied refers to impacts from raw materials extraction, manufacturing, distribution, and end-of-life management. Overall, the impact embodied in the end-user devices generally dominates the total impacts. CPE: customer premise equipment.
 
@@ -78,8 +79,8 @@ The 2024 study found that the operation of data centres was responsible on avera
 
 Decarbonisation of the power sector could significantly mitigate a number of impacts associated with digital content consumption, however, concerns would persist regarding the use of mineral and metal resources.
 
-For further reading see:
-- The environmental sustainability of digital content consumption](https://doi.org/10.1038/s41467-024-47621-w)
+For further reading see: 
+- [The environmental sustainability of digital content consumption](https://doi.org/10.1038/s41467-024-47621-w)
 - [2026 Global Digital Report](https://datareportal.com/reports/digital-2026-global-overview-report)
 - [Planetary Boundaries - Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 - [How to reduce the environmental impact of your next virtual meeting](https://news.mit.edu/2021/how-to-reduce-environmental-impact-next-virtual-meeting-0304)
@@ -102,7 +103,7 @@ Use these resources to help to answer the following questions:
 - [I Love Generative AI and Hate the Companies Building It](https://cwodtke.medium.com/i-love-generative-ai-and-hate-the-companies-building-it-3fb120e512ac)
 - [Ecological footprint calculator](https://www.footprintcalculator.org/home/en)
 
-### Question 1: How has GenAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
+Question 1: How has GenAI availability as a public service changed the scale of environmental impact, even though powerful models already existed long before?
 
 :::::::::::::::::::::::: solution 
 
@@ -110,7 +111,7 @@ A powerful model used by a small number of researchers has a very different envi
 
 :::::::::::::::::::::::::::::::::
 
-### Question 2: Describe three kinds of resources that are strained by demand.
+Question 2: Describe three kinds of resources that are strained by demand.
 
 :::::::::::::::::::::::: solution 
 
@@ -120,7 +121,7 @@ A powerful model used by a small number of researchers has a very different envi
 
 :::::::::::::::::::::::::::::::::
 
-### Question 3: How are the demands for increased energy currently being met? What are the implications?
+Question 3: How are the demands for increased energy currently being met? What are the implications?
 
 :::::::::::::::::::::::: solution 
 
@@ -128,7 +129,7 @@ Some data centres have built their own power facilities utilising carbon based f
 
 :::::::::::::::::::::::::::::::::
 
-### Question 4: How does this compare to other human activities?
+Question 4: How does this compare to other human activities?
 
 :::::::::::::::::::::::: solution 
 
