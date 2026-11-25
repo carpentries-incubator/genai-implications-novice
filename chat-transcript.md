@@ -265,7 +265,7 @@ If you want, I can show this visually (e.g. scatter plots) so you can clearly se
 
 Here’s the scatter plot of **population density vs life expectancy** from your dataset:
 
-[Population density vs life expectency](images/ChatPlot1.png)
+![Population density vs life expectency](../episodes/fig/CoPilotChat/ChatPlot1.png)
 
 ## 🔎 How to read this plot
 
@@ -303,7 +303,7 @@ If you want, I can overlay GDP on this (e.g. colour-coded points), which makes t
 **Prompt:** Overlay GDP on the scatter plot
 
 **Response:**
-![Population density vs Life Expectancy](fig/ChatPlot2.png)
+![Population density vs Life Expectancy](../episodes/fig/CoPilotChat/ChatPlot2.png)
 ## 🔎 What this shows
 
 ### 1. Clear vertical colour gradient (GDP effect)
@@ -357,7 +357,7 @@ If you want, I can add a regression line or transform the density scale (log sca
 
 Here’s the same plot with a **log-transformed population density axis**:
 
-![Log density vs life expectency](fig/ChatPlot3.png)
+![Log density vs life expectency](../episodes/fig/CoPilotChat/ChatPlot3.png)
 
 ## 🔎 What changed and why it helps
 
@@ -764,7 +764,7 @@ If you want, I can visualise this model (e.g., predicted curves or partial effec
 
 Here is the **partial effect of GDP on life expectancy** from your best model (holding density constant and using Africa as baseline):
 
-![Partial effect of GDP on life expectancy(fig/ChatPlot4.png)
+![Partial effect of GDP on life expectancy(../episodes/fig/CoPilotChat/ChatPlot4.png)
 ***
 
 ## 🔎 How to interpret this plot
@@ -837,7 +837,7 @@ If you want, I can also:
 
 Here’s a direct comparison of the **partial effects of GDP vs population density** from your model:
 
-![partial effect of GDP vs population density](fig/ChatPlot5.png)
+![partial effect of GDP vs population density](../episodes/fig/CoPilotChat/ChatPlot5.png)
 
 ***
 
