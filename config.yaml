@@ -75,6 +75,7 @@ episodes:
 
 # Information for Learners
 learners:
+- chat-transcript.md
 - further-reading.md
 
 # Information for Instructors
