@@ -183,7 +183,7 @@ def convert_miles_to_km(
 
 LLMs develop the models that allow them to predict the next word by identifying patterns in unimaginably large quantities of text. That process is called pre-training.
 
-These pre-trained models come with a series of flaws. They do not necessarily interpret user input as an instruction or question, so the can be more difficult to use. They also are more likely to produce harmful or false outputs.
+These pre-trained models come with a series of flaws. They do not necessarily interpret user input as an instruction or question, so they can be more difficult to use. They also are more likely to produce harmful or false outputs.
 
 To mitigate this, pre-training is usually followed by fine tuning. This process modifies pre-trained models, improves the types of outputs they are likely to produce, and lowers the risk of harmful or wrong output.
 
